@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: ncke's website
 ---
-
+Welcome to my website!
